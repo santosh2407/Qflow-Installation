@@ -1,2 +1,2 @@
-# Qflow-Installation
-This repository complete details of installing Qflow EDA.
+# Qflow Installation
+This repository consists complete details of installing Qflow EDA.
